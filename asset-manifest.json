@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sim-ledger-dapp/static/css/main.e6c13ad2.css",
+    "main.js": "/sim-ledger-dapp/static/js/main.673313e6.js",
+    "static/js/453.8853feeb.chunk.js": "/sim-ledger-dapp/static/js/453.8853feeb.chunk.js",
+    "index.html": "/sim-ledger-dapp/index.html",
+    "main.e6c13ad2.css.map": "/sim-ledger-dapp/static/css/main.e6c13ad2.css.map",
+    "main.673313e6.js.map": "/sim-ledger-dapp/static/js/main.673313e6.js.map",
+    "453.8853feeb.chunk.js.map": "/sim-ledger-dapp/static/js/453.8853feeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.673313e6.js"
+  ]
+}
