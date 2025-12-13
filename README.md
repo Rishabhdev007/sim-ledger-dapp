@@ -1,70 +1,142 @@
-# Getting Started with Create React App
+# 📘 SimLedger dApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**SimLedger** is a Web3 decentralized application (dApp) that allows users to connect their wallet, view simulated balances, and interact with a smart-contract-based ledger on an Ethereum-compatible test network.
 
-## Available Scripts
+This project is built for **learning, demonstration, and portfolio purposes**, focusing on wallet connection, contract interaction, and frontend–blockchain integration.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🌐 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔗 **Live dApp:**  
+  https://rishabhdev007.github.io/sim-ledger-dapp/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📦 **Source Code:**  
+  https://github.com/Rishabhdev007/sim-ledger-dapp
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚀 Features
 
-### `npm run build`
+- 🔐 MetaMask wallet connection  
+- 📡 Reads data directly from blockchain  
+- 🧾 Simulated ledger / balance tracking  
+- ⚡ React-based frontend  
+- 🧪 Deployed on Ethereum test network  
+- 🌍 Hosted using GitHub Pages  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧠 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Frontend**
+- React
+- JavaScript
+- HTML / CSS
 
-### `npm run eject`
+**Blockchain**
+- Solidity
+- Ethereum (Testnet)
+- ethers.js
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Tools**
+- MetaMask
+- GitHub Pages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📂 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+sim-ledger-dapp/
+├── public/
+├── src/
+│ ├── components/
+│ ├── App.js
+│ ├── index.js
+│ └── styles.css
+├── package.json
+├── README.md
+└── build/
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠 Installation & Setup
 
-### Code Splitting
+### 1. Clone the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/Rishabhdev007/sim-ledger-dapp.git
+cd sim-ledger-dapp
 
-### Analyzing the Bundle Size
+2. Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. Run locally
+npm start
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+App will be available at:
 
-### Advanced Configuration
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🔑 Wallet Requirements
 
-### Deployment
+MetaMask browser extension
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Correct Ethereum test network selected
 
-### `npm run build` fails to minify
+Small amount of test ETH (if required)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🚀 Deployment (GitHub Pages)
+
+This project is deployed using GitHub Pages.
+
+To redeploy after changes:
+
+npm run build
+npm run deploy
+
+
+Ensure package.json includes:
+
+"homepage": "https://rishabhdev007.github.io/sim-ledger-dapp"
+
+🎯 Project Purpose
+
+Learn Web3 frontend + blockchain integration
+
+Practice wallet connection and contract reads
+
+Build a strong Web3 portfolio project
+
+🧩 Future Enhancements
+
+Event listening from smart contracts
+
+Write transactions (ledger updates)
+
+Network auto-detection
+
+Improved UI / UX
+
+🤝 Contributing
+
+Contributions are welcome.
+
+Fork the repository
+
+Create a feature branch
+
+Commit your changes
+
+Open a pull request
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👤 Author
+
+Rishabh Dev
+GitHub: https://github.com/Rishabhdev007
