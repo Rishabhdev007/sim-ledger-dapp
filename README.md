@@ -16,6 +16,15 @@ This project is built for **learning, demonstration, and portfolio purposes**, f
 
 ---
 
+## 🖼 Screenshots
+
+### Wallet Connection
+![Wallet Connection](screenshots/wallet-connection.png)
+
+### Ledger Dashboard
+![Ledger Dashboard](screenshots/ledger-dashboard.png)
+
+
 ## 🚀 Features
 
 - 🔐 MetaMask wallet connection  
